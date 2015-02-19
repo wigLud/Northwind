@@ -1,5 +1,5 @@
 # Northwind
-Northwind is my first serious project and I'm really excited for this! :)
+Northwind is a single player RPG written in Java.
 
 Within Northwind the player will be represented by a ghost. This ghost has the power to take control of the bodies of dead creatures.
 
